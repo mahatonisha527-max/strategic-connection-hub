@@ -189,11 +189,7 @@ function Contact() {
               <div className="rule-thin pt-7">
                 <h2 className="eyebrow text-muted-foreground">Your information</h2>
                 <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-                  How enquiry information would be handled is described on the{" "}
-                  <Link to="/privacy" className="border-b border-accent/40 hover:text-accent">
-                    privacy page
-                  </Link>
-                  .
+                  Enquiry details are handled confidentially and used solely to respond to your request.
                 </p>
               </div>
             </aside>

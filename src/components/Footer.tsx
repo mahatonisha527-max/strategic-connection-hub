@@ -25,7 +25,6 @@ export function Footer() {
               <li><Link to="/about" className="text-foreground transition-colors hover:text-accent">About</Link></li>
               <li><Link to="/services" className="text-foreground transition-colors hover:text-accent">Services</Link></li>
               <li><Link to="/contact" className="text-foreground transition-colors hover:text-accent">Contact</Link></li>
-              <li><Link to="/privacy" className="text-foreground transition-colors hover:text-accent">Privacy</Link></li>
             </ul>
           </nav>
 
