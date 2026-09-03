@@ -4,7 +4,7 @@ import { Reveal } from "@/components/Reveal";
 import { SectionHeading } from "@/components/SectionHeading";
 import { CtaLink } from "@/components/CtaLink";
 
-const title = "Raveclue — Strategic Business Connections";
+const title = "Raveclue";
 const description =
   "Raveclue makes strategic business connections: considered introductions between organisations whose needs and capabilities genuinely fit.";
 

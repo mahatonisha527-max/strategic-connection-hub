@@ -80,7 +80,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Raveclue — Strategic Business Connections" },
+      { title: "Raveclue" },
       { name: "description", content: site.seo.defaultDescription },
       { property: "og:site_name", content: "Raveclue" },
       { property: "og:type", content: "website" },
